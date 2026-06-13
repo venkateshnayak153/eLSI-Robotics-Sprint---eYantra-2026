@@ -87,4 +87,4 @@ python task0.py
 - CoppeliaSim Edu V4.10.0
 
 ## Team ID
-[ XXX ]
+[ Team 67 ]
